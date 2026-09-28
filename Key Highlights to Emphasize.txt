@@ -1,0 +1,18 @@
+ Key Highlights to Emphasize
+When describing this project, mention these technical achievements:
+
+What you built  ======>>>   Technical skill shown
+Multi-page layout (header, main, footer)    ======>>>	HTML5 semantic structure
+Responsive grid with cards  ======>>>	CSS Grid + Bootstrap 5
+Search bar with 3 filters   ======>>>	Dynamic SQL WHERE clauses
+Admin login modal	======>>>   Form validation + state management
+Add book form with 8 fields    ======>>>	PHP + MySQL prepared statements
+Delete book with confirmation   ======>>>	REST DELETE endpoint
+Click-to-detail popup   ======>>>	DOM manipulation + dynamic rendering
+Toast notifications     ======>>>	User feedback / UX
+REST API (books, book, search)      ======>>>	Backend architecture
+PDO prepared statements     ======>>>	SQL injection protection
+CORS handling       ======>>>	Cross-origin request security
+Error handling on fetch     ======>>>	Async/await + try/catch
+Status toggle (Available/Issued)    ======>>>	ENUM in MySQL
+Responsive at 900px, 600px, 400px	 ======>>>   Mobile-first design
